@@ -1,0 +1,14 @@
+# Node.js build artifacts
+node_modules/
+build/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
